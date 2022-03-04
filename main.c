@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 #include "./2-25/problem.h"
+#include "./2-31/problem.h"
 
 int main() {
-  float testArray[] = {2.5, 2.5, 2.5, 2.5};
-  sum_elements(testArray, 4);
+  tadd_ok(5, 6);
 
   return 0;
 }
