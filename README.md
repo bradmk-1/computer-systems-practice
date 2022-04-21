@@ -1,4 +1,4 @@
-﻿# computer-systems-practice
+﻿# computer-systems-sandbox
 
 
 Throwaway repository for tasks presented via the book Computer Systems: A Programmer's Perspective.
